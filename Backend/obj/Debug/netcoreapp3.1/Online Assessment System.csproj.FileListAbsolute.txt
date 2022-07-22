@@ -1,0 +1,96 @@
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.exe
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.deps.json
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.runtimeconfig.json
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.pdb
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.Views.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\Online Assessment System.Views.pdb
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\staticwebassets\Online Assessment System.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\staticwebassets\Online Assessment System.StaticWebAssets.xml
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online Assessment System.styles.css
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.Views.pdb
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.csproj.CopyComplete
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.dll
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.pdb
+C:\Users\DELL\Desktop\Sid project\Online Assessment System\obj\Debug\netcoreapp3.1\Online Assessment System.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.exe
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.deps.json
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.runtimeconfig.json
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.pdb
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.Views.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Online Assessment System.Views.pdb
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Online Assessment System.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Online Assessment System.StaticWebAssets.xml
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online Assessment System.styles.css
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.TagHelpers.input.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.TagHelpers.output.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.Views.pdb
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.csproj.CopyComplete
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.pdb
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\obj\Debug\netcoreapp3.1\Online Assessment System.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\Online Assessment System - Sid\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
